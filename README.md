@@ -76,7 +76,7 @@ This is not to be confused with taking a photo with your phone.
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. <sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
